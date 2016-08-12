@@ -1,3 +1,9 @@
+libuvpp (1.7.5ubuntu3) utopic; urgency=medium
+
+  * Dependency project libuv was updated to v1.9.1
+
+ -- Autobuilder <autobuilder@corp.sputnik.ru>  Fri, 12 Aug 2016 12:15:31 +0300
+
 libuvpp (1.7.5ubuntu2) utopic; urgency=medium
 
   * Version bump for Jenkins repair
